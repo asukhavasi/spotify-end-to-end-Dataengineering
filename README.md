@@ -17,6 +17,6 @@ In this project, I made an ETL pipleline using Spotify API on AWS. This pipeline
 4. **Amazon Cloud Watch**
 5. **Amazon S3**
 6. **AWS Event Trigger**
-7. **Crawler**
-8. **Glue Catelog**
+7. **Glue Crawler**
+8. **Glue Data Catalog**
 9. **Athena**
